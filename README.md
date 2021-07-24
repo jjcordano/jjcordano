@@ -8,8 +8,8 @@
 
 🔭 Check out my projects :
 - [Implementing Elkan's accelerated Kmeans algorithm from scratch](https://github.com/jjcordano/elkans_kmeans).
-- [Predicting number of air passengers per flight (Academic)](https://github.com/jjcordano/air_passengers).
 - [Portfolio creation using ESG metrics and XGBoost, methodology presented by Bloomberg Quantitative Research in 2020 (Academic)](https://github.com/jjcordano/xgb_portfolio).
+- [Predicting number of air passengers per flight (Academic)](https://github.com/jjcordano/air_passengers).
 - and a few others in the works...
 
 📫 Please feel free to reach out to me on [LinkedIn](www.linkedin.com/in/jean-julien-cordano).
