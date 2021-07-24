@@ -12,7 +12,7 @@
 - [Predicting number of air passengers per flight (Academic)](https://github.com/jjcordano/air_passengers).
 - and a few others in the works...
 
-📫 Please feel free to reach out to me on [LinkedIn](www.linkedin.com/in/jean-julien-cordano).
+📫 Please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/jean-julien-cordano).
 
 <!--
 **jjcordano/jjcordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
