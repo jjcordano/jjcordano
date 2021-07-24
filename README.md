@@ -2,11 +2,14 @@
 
 🎓 I have a Bachelor's degree from McGill University in Finance and Computer Science and I am currently a Master's student studying Data Science and Financial Modeling at Paris 1 Panthéon-Sorbonne University.
 
+💼 Currently a Data Scientist trainee at Natixis in Paris.
+
 🎯 My fields of interest are __statistics__, __computer science__, __deep learning__, and __finance__.
 
 🔭 Check out my projects :
 - [Implementing Elkan's accelerated Kmeans algorithm from scratch](https://github.com/jjcordano/elkans_kmeans).
-- [Predicting number of air passengers per flight (Academic project)](https://github.com/jjcordano/air_passengers).
+- [Predicting number of air passengers per flight (Academic)](https://github.com/jjcordano/air_passengers).
+- [Portfolio creation using ESG metrics and XGBoost, methodology presented by Bloomberg Quantitative Research in 2020 (Academic)](https://github.com/jjcordano/xgb_portfolio).
 - and a few others in the works...
 
 📫 Please feel free to reach out to me on [LinkedIn](www.linkedin.com/in/jean-julien-cordano).
