@@ -1,6 +1,6 @@
 ### Hi! I'm Jean-Julien Cordano. 👋
 
-🎓 I have a Bachelor's degree from McGill University in Finance and Computer Science and I am currently a Master's student studying Data Science and Financial Modeling at Paris 1 Panthéon-Sorbonne University.
+🎓 I have a Bachelor's degree from McGill University in Finance and Computer Science and I am currently a Master's student studying Statistics and Data Science at Paris 1 Panthéon-Sorbonne University.
 
 💼 Currently a Data Scientist trainee at Natixis in Paris.
 
