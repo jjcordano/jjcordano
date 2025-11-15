@@ -14,7 +14,7 @@
 
 📫 Please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/jean-julien-cordano).
 
-© profile picture credits: Gregory Crewdson, 
+© Profile picture credits: _Gregory Crewdson, Untitled, Beneath the Roses, 2003-2008_
 
 <!--
 **jjcordano/jjcordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
