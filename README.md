@@ -1,10 +1,10 @@
 ### Hi! I'm Jean-Julien Cordano. 👋
 
-🎓 I have a Bachelor's degree from McGill University in Finance and Computer Science and I am currently a Master's student studying Statistics and Data Science at Paris 1 Panthéon-Sorbonne University.
+💼 Currently a Data Scientist at Air Liquide in Paris. Previously part of a two-year graduate program as Data Scientist in Air Liquide Operations in Brussels.
 
-💼 Currently taking part in a two-year graduate program as Data Scientist at Air Liquide in Brussels.
+🎓 I have a Bachelor's degree from McGill University in Computer Science and Finance and a Master's degree Statistics and Data Science at Paris 1 Panthéon-Sorbonne University (_M2 MOSEF_).
 
-🎯 My fields of interest are __statistics__, __computer science__, __deep learning__, and __finance__.
+🎯 My fields of interest are __statistics__, __computer science__, __agentic AI__, and __finance__.
 
 🔭 Check out my projects :
 - [Implementing Elkan's accelerated Kmeans algorithm from scratch](https://github.com/jjcordano/elkans_kmeans).
@@ -13,6 +13,8 @@
 - and a few others in the works...
 
 📫 Please feel free to reach out to me on [LinkedIn](https://linkedin.com/in/jean-julien-cordano).
+
+© profile picture credits: Gregory Crewdson, 
 
 <!--
 **jjcordano/jjcordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
